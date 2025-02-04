@@ -1,0 +1,33 @@
+﻿Сборка начата 27.11.2024 21:23:58.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\псп\Lab08-10\Lab08-10\ServiceLibrary\ServiceLibrary.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\ServiceLibrary.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\ServiceLibrary.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /Od /D _DEBUG /D _WINDOWS /D _USRDLL /D WIN32PROJECT1_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt ServiceLibrary.cpp
+         ServiceLibrary.cpp
+     1>D:\лабы\псп\Lab08-10\Lab08-10\ServiceLibrary\Services.h(148,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         (компиляция исходного файла "ServiceLibrary.cpp")
+         
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\псп\Lab08-10\Lab08-10\x64\Debug\ServiceLibrary.dll" /INCREMENTAL /ILK:"x64\Debug\ServiceLibrary.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы\псп\Lab08-10\Lab08-10\x64\Debug\ServiceLibrary.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\псп\Lab08-10\Lab08-10\x64\Debug\ServiceLibrary.lib" /MACHINE:X64 /DLL x64\Debug\ServiceLibrary.obj
+         x64\Debug\Errors.obj
+         ServiceLibrary.vcxproj -> D:\лабы\псп\Lab08-10\Lab08-10\x64\Debug\ServiceLibrary.dll
+       FinalizeBuildStatus:
+         Файл "x64\Debug\ServiceLibrary.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\ServiceLibrary.tlog\ServiceLibrary.lastbuildstate".
+     1>Сборка проекта "D:\лабы\псп\Lab08-10\Lab08-10\ServiceLibrary\ServiceLibrary.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\лабы\псп\Lab08-10\Lab08-10\ServiceLibrary\ServiceLibrary.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\лабы\псп\Lab08-10\Lab08-10\ServiceLibrary\Services.h(148,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:00.58

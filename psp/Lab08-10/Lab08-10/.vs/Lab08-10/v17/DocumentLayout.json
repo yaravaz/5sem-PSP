@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unik\\5sem\\PSP\\Lab08-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFCE27-0A31-4A0E-A721-94820DE0E78D}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ConcurrentServer\\ConcurrentServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBFCE27-0A31-4A0E-A721-94820DE0E78D}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\ConcurrentServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586087CD-7EAF-414C-8DD9-9466033EFC86}|ClientT\\ClientT.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586087CD-7EAF-414C-8DD9-9466033EFC86}|ClientT\\ClientT.vcxproj|solutionrelative:ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D27756B-0B3D-4DBB-96E3-B86799B15921}|ClientB\\ClientB.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ClientB\\ClientB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D27756B-0B3D-4DBB-96E3-B86799B15921}|ClientB\\ClientB.vcxproj|solutionrelative:ClientB\\ClientB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD87FA-8CC7-456E-8E65-1A3CBD9B0C65}|RConsole\\RConsole.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\RConsole\\Errors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20BD87FA-8CC7-456E-8E65-1A3CBD9B0C65}|RConsole\\RConsole.vcxproj|solutionrelative:RConsole\\Errors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD87FA-8CC7-456E-8E65-1A3CBD9B0C65}|RConsole\\RConsole.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\RConsole\\RConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20BD87FA-8CC7-456E-8E65-1A3CBD9B0C65}|RConsole\\RConsole.vcxproj|solutionrelative:RConsole\\RConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\ServiceLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\ServiceLibrary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\PrototypeService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\PrototypeService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\DefineTableService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\DefineTableService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFCE27-0A31-4A0E-A721-94820DE0E78D}|ConcurrentServer\\ConcurrentServer.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ConcurrentServer\\Errors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBFCE27-0A31-4A0E-A721-94820DE0E78D}|ConcurrentServer\\ConcurrentServer.vcxproj|solutionrelative:ConcurrentServer\\Errors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\Errors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\Errors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\Errors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\Errors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25BDDE8B-2FF4-4994-A06D-61677A7FC007}|ServiceLibrary\\ServiceLibrary.vcxproj|solutionrelative:ServiceLibrary\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586087CD-7EAF-414C-8DD9-9466033EFC86}|ClientT\\ClientT.vcxproj|D:\\unik\\5sem\\PSP\\Lab08-10\\ClientT\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586087CD-7EAF-414C-8DD9-9466033EFC86}|ClientT\\ClientT.vcxproj|solutionrelative:ClientT\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RConsole.cpp",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\RConsole\\RConsole.cpp",
+              "RelativeDocumentMoniker": "RConsole\\RConsole.cpp",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\RConsole\\RConsole.cpp",
+              "RelativeToolTip": "RConsole\\RConsole.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T16:33:47.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\stdafx.h",
+              "RelativeDocumentMoniker": "ServiceLibrary\\stdafx.h",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\stdafx.h",
+              "RelativeToolTip": "ServiceLibrary\\stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T17:14:18.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientB.cpp",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ClientB\\ClientB.cpp",
+              "RelativeDocumentMoniker": "ClientB\\ClientB.cpp",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ClientB\\ClientB.cpp",
+              "RelativeToolTip": "ClientB\\ClientB.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T17:10:20.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConcurrentServer.cpp",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ConcurrentServer\\ConcurrentServer.cpp",
+              "RelativeDocumentMoniker": "ConcurrentServer\\ConcurrentServer.cpp",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ConcurrentServer\\ConcurrentServer.cpp",
+              "RelativeToolTip": "ConcurrentServer\\ConcurrentServer.cpp",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAAAKoBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T17:09:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Errors.h",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ConcurrentServer\\Errors.h",
+              "RelativeDocumentMoniker": "ConcurrentServer\\Errors.h",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ConcurrentServer\\Errors.h",
+              "RelativeToolTip": "ConcurrentServer\\Errors.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T08:16:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Errors.cpp",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\RConsole\\Errors.cpp",
+              "RelativeDocumentMoniker": "RConsole\\Errors.cpp",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\RConsole\\Errors.cpp",
+              "RelativeToolTip": "RConsole\\Errors.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T08:56:57.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientT.cpp",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ClientT\\ClientT.cpp",
+              "RelativeDocumentMoniker": "ClientT\\ClientT.cpp",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ClientT\\ClientT.cpp",
+              "RelativeToolTip": "ClientT\\ClientT.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T17:10:00.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ClientT\\stdafx.h",
+              "RelativeDocumentMoniker": "ClientT\\stdafx.h",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ClientT\\stdafx.h",
+              "RelativeToolTip": "ClientT\\stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T17:09:56.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DefineTableService.h",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\DefineTableService.h",
+              "RelativeDocumentMoniker": "ServiceLibrary\\DefineTableService.h",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\DefineTableService.h",
+              "RelativeToolTip": "ServiceLibrary\\DefineTableService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T17:09:04.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Errors.h",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\Errors.h",
+              "RelativeDocumentMoniker": "ServiceLibrary\\Errors.h",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\Errors.h",
+              "RelativeToolTip": "ServiceLibrary\\Errors.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T17:09:03.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrototypeService.h",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\PrototypeService.h",
+              "RelativeDocumentMoniker": "ServiceLibrary\\PrototypeService.h",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\PrototypeService.h",
+              "RelativeToolTip": "ServiceLibrary\\PrototypeService.h",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T17:08:42.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Errors.cpp",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\Errors.cpp",
+              "RelativeDocumentMoniker": "ServiceLibrary\\Errors.cpp",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\Errors.cpp",
+              "RelativeToolTip": "ServiceLibrary\\Errors.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T17:08:39.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceLibrary.cpp",
+              "DocumentMoniker": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\ServiceLibrary.cpp",
+              "RelativeDocumentMoniker": "ServiceLibrary\\ServiceLibrary.cpp",
+              "ToolTip": "D:\\unik\\5sem\\PSP\\Lab08-10\\ServiceLibrary\\ServiceLibrary.cpp",
+              "RelativeToolTip": "ServiceLibrary\\ServiceLibrary.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T17:08:33.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
