@@ -1,0 +1,33 @@
+﻿Сборка начата 26.09.2024 20:56:17.
+Уровень детализации журнала: Normal.     1>Проект "D:\лабы\псп\lab3\lab3\ClientU\ClientU.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\ClientU.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\ClientU.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt ClientU.cpp
+         ClientU.cpp
+     1>D:\лабы\псп\lab3\lab3\ClientU\ClientU.cpp(52,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     1>D:\лабы\псп\lab3\lab3\ClientU\ClientU.cpp(60,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\псп\lab3\lab3\x64\Debug\ClientU.exe" /INCREMENTAL /ILK:"x64\Debug\ClientU.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\лабы\псп\lab3\lab3\x64\Debug\ClientU.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\псп\lab3\lab3\x64\Debug\ClientU.lib" /MACHINE:X64 x64\Debug\ClientU.obj
+     1>LINK : fatal error LNK1168: не удается открыть D:\лабы\псп\lab3\lab3\x64\Debug\ClientU.exe для записи
+     1>Сборка проекта "D:\лабы\псп\lab3\lab3\ClientU\ClientU.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\лабы\псп\lab3\lab3\ClientU\ClientU.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\лабы\псп\lab3\lab3\ClientU\ClientU.cpp(52,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+         D:\лабы\псп\lab3\lab3\ClientU\ClientU.cpp(60,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+
+
+       "D:\лабы\псп\lab3\lab3\ClientU\ClientU.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1168: не удается открыть D:\лабы\псп\lab3\lab3\x64\Debug\ClientU.exe для записи
+
+    Предупреждений: 2
+    Ошибок: 1
+
+Прошло времени 00:00:00.88

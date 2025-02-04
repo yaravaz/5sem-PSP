@@ -1,0 +1,62 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            DESKTOP-P5VGONQ:0      LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:554            DESKTOP-P5VGONQ:0      LISTENING
+ [wmpnetwk.exe]
+  TCP    0.0.0.0:2179           DESKTOP-P5VGONQ:0      LISTENING
+ [vmms.exe]
+  TCP    0.0.0.0:2869           DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:3306           DESKTOP-P5VGONQ:0      LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:5040           DESKTOP-P5VGONQ:0      LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:10243          DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:33060          DESKTOP-P5VGONQ:0      LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:49664          DESKTOP-P5VGONQ:0      LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49666          DESKTOP-P5VGONQ:0      LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          DESKTOP-P5VGONQ:0      LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:53065          DESKTOP-P5VGONQ:0      LISTENING
+ [spoolsv.exe]
+  TCP    26.250.169.146:139     DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    127.0.0.1:44950        DESKTOP-P5VGONQ:0      LISTENING
+ [figma_agent.exe]
+  TCP    127.0.0.1:44960        DESKTOP-P5VGONQ:0      LISTENING
+ [figma_agent.exe]
+  TCP    127.0.0.1:49669        kubernetes:49670       ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49670        kubernetes:49669       ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49671        kubernetes:49672       ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49672        kubernetes:49671       ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:51435        DESKTOP-P5VGONQ:0      LISTENING
+ [sqlservr.exe]
+  TCP    172.22.48.1:139        DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.56.1:139       DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.123.7:139      DESKTOP-P5VGONQ:0      LISTENING
+ Не удается получить сведения о владельце
